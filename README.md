@@ -35,3 +35,8 @@ This project delivers a unified dashboard built with Excel and PostgreSQL, enabl
 - **Window functions** are essential for deep segmentation and trend analysis
 - **Excel + SQL integration** creates powerful, user-friendly BI tools
 - Suggest further automation with Power Query or migration to Power BI/Tableau
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
+
